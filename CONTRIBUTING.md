@@ -1,6 +1,6 @@
-Contributing to the Banner for Websites to Show Support for Palestine Project
+Contributing to the Banner for Websites to Show Support for IsraelProject
 
-Thank you for considering contributing to our project! We welcome contributions from the community to help make the world a better place for Palestinians. Please take a moment to review this document to understand how you can contribute to the project.
+Thank you for considering contributing to our project! Please take a moment to review this document to understand how you can contribute to the project.
 How to Contribute
 
 I appreciate your interest in contributing to this project. To get started, follow these steps:

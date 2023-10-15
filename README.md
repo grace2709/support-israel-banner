@@ -1,12 +1,12 @@
-# Banner for websites to show support for Palestine 
-Use this snippet to show your support for Palestinians on the top of your website. Installing it takes minutes.
-![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
+# Banner for websites to show support for israel 
+Use this snippet to show your support for Israelis on the top of your website. Installing it takes minutes.
+![image](https://github.com/Safouene1/support-israel-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
 
 
 
 ## About 
-This code adds a small black banner on top of your website with Palestinian flag and support message. It links to islamic-relief's donation site but you can change the link to point to a support channel of your choice.
-![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/269d2610-7025-4b69-a3b1-00fbfc2a949a)
+This code adds a small black banner on top of your website with israel flag and support message. It links to islamic-relief's donation site but you can change the link to point to a support channel of your choice.
+![image](https://github.com/Safouene1/support-israel-banner/assets/22036449/269d2610-7025-4b69-a3b1-00fbfc2a949a)
 
 
 ## Installation 
@@ -17,7 +17,7 @@ Installation is dead simple. Just copy this code to your template right after th
 body {
 	margin-top: 35px;
 }
-.support-palestine, .support-palestine:visited {
+.support-israel, .support-israel:visited {
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -31,18 +31,18 @@ body {
 	text-decoration: none;
 	font-family: arial;
 }
-.support-palestine:hover, .support-palestine:active {
+.support-israel:hover, .support-israel:active {
 	background: black;
 	display: flex;
 	background: rgb(80,80,80);
 	text-decoration: none;
 }
-.support-palestine__flag {
+.support-israel__flag {
 
 	margin-right: 10px;
 }
 
-.support-palestine__label {
+.support-israel__label {
 	color: white;
 	font-size: 12px;
 	line-height: 24px;
@@ -75,16 +75,16 @@ height:21px;
   left: 0;
 }
 </style>
-<a class="support-palestine" href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank" rel="nofollow noopener" title="Donate to support palestine">
-	<div class="support-palestine__flag" role="img" aria-label="Flag of palestine">
+<a class="support-israel" href="https://www.islamic-relief.org.uk/giving/appeals/israel/" target="_blank" rel="nofollow noopener" title="Donate to support israel">
+	<div class="support-israel__flag" role="img" aria-label="Flag of israel">
 	<div class="background">
   <div class="top"></div>
   <div class="middle"></div>
   <div class="triangle"></div>
 </div>
 	</div>
-	<div class="support-palestine__label">
-		Donate to support Palestine
+	<div class="support-israel__label">
+		Donate to support israel
 	</div>
 </a>
 
