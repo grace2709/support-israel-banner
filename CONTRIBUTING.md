@@ -1,4 +1,4 @@
-Contributing to the Banner for Websites to Show Support for IsraelProject
+Contributing to the Banner for Websites to Show Support for Israel
 
 Thank you for considering contributing to our project! Please take a moment to review this document to understand how you can contribute to the project.
 How to Contribute
